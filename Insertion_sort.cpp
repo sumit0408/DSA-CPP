@@ -1,5 +1,4 @@
 // Implementation of Insertion Sort.. //
-// Insertion sort mein hum unsorted array se element ko pick krte hai aur usko uski right position pe place krte hai. //
 
 #include<bits/stdc++.h>
 using namespace std;
