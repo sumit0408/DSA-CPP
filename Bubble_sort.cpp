@@ -1,5 +1,4 @@
 // Implementation of Bubble sort.... //
-// Bubble sort mein adjacent elements ki swaping krte hai.....aur humara array peeche se sort hota hai... //
 
 
 #include<bits/stdc++.h>
