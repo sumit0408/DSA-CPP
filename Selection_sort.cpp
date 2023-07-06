@@ -1,6 +1,4 @@
 // Implementation of Selection Sort //
-// Hum unsorted array mein se min element ko pick krte hai aur usko unsorted ki first position pe place krdete hai //
-
 #include<bits/stdc++.h>
 using namespace std;
 int selection_sort(int arr[], int n)
