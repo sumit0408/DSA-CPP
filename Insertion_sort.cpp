@@ -1,8 +1,6 @@
 // Implementation of Insertion Sort.. //
-
 #include<bits/stdc++.h>
 using namespace std;
-
 int insertion_sort(int arr[], int n)
 {
     for(int i=1; i<n; i++)
