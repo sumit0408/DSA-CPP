@@ -1,6 +1,4 @@
 // Implementation of Bubble sort.... //
-
-
 #include<bits/stdc++.h>
 using namespace std;
 int bubble_sort(int arr[], int n)
